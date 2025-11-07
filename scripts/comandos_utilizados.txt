@@ -1,1 +1,22 @@
+# Comandos principais usados no projecto
+
+# OSINT
+theHarvester -d data4safe.com -b bing
+
+# Captura
+sudo tcpdump -i eth0 -w rede_suspeita2.pcap
+
+# Filtrar no Wireshark
+tcp.port == 22
+
+# Cracking (wordlist reduzida)
+echo "msfadmin" > test.txt
+ncrack -u msfadmin -P test.txt ssh://10.0.2.4
+
+# Auditoria
+nmap -sC -sV 10.0.2.4 -oN nmap_resultados.txt
+searchsploit "vsftpd 2.3.4"
+
+# Anonimização
+sed -E 's/for [a-zA-Z0-9_]+/for user****/; s/from 10\.0\.2\.[0-9]+/from 10.0.2.XX/' log_ssh.txt > log_anonimizado.txt
 
