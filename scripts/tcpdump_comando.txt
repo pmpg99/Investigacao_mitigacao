@@ -1,1 +1,6 @@
+# Comando usado para captura de tráfego
+
+sudo tcpdump -i eth0 -w rede_suspeita2.pcap
+
+# Nota: ajustar interface (eth0) conforme a VM/host
 
