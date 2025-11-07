@@ -18,10 +18,18 @@
   - [Anonimização de logs](#anonimização-de-logs)
 
 ## Evidências incluídas
-    - Relatório (relatorio.pdf) — relatório completo.
-    - evidencias/ — capturas de ecrã das ferramentas (Wireshark, Ncrack, Nmap, theHarvester, sed).
-    - scripts/comandos_utilizados.txt — scripts e ficheiros de comandos utilizados (`sed_anonimizacao.sh`, `tcpdump_comando.txt`, `comandos_utilizados.txt`).
-    - /logs/ — ficheiro de logs utilizado e versão anonimizada (`log_anonimizado.txt`).
+
+- `relatorio.pdf` — relatório completo.(/
+- `/evidencias/` — capturas de ecrã das ferramentas (Wireshark, Ncrack, Nmap, theHarvester, sed).
+- `/scripts/` — scripts e ficheiros de comandos utilizados (`sed_anonimizacao.sh`, `tcpdump_comando.txt`, `comandos_utilizados.txt`).
+- `/logs/` — ficheiro de logs utilizado e versão anonimizada (`log_anonimizado.txt`).
+
+### Visualizações rápidas
+<!-- Substitui os nomes pelos que tens em /evidencias -->
+![theHarvester](/evidencias/osint_comando.png)
+![Wireshark - SSH](/evidencias/wireshark_ssh.png)
+![Ncrack - sucesso](/evidencias/ncrack_sucesso.png)
+![Nmap - resultados](/evidencias/nmap_resultados.png)
 
 
 
