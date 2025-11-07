@@ -10,18 +10,21 @@
 ## Índice
 - [Resumo](#resumo)  
 - [Objetivos](#objetivos)  
-- [Estrutura do repositório](#estrutura-do-repositório)  
-- [Principais resultados](#principais-resultados)  
 - [Passo a passo técnico (com comandos)](#passo-a-passo-técnico-com-comandos)  
   - [OSINT](#osint)  
   - [Captura e análise de tráfego (forense)](#captura-e-análise-de-tráfego-forense)  
   - [Cracking de credenciais](#cracking-de-credenciais)  
   - [Auditoria e correlação de vulnerabilidades](#auditoria-e-correlação-de-vulnerabilidades)  
-  - [Anonimização de logs](#anonimização-de-logs)  
-- [Evidências incluídas](#evidências-incluídas)  
-- [Como reproduzir (modo seguro)](#como-reproduzir-modo-seguro)  
-- [Boas práticas para recrutadores / avaliadores](#boas-práticas-para-recrutadores--avaliadores)  
-- [Licença & Contacto](#licença--contacto)
+  - [Anonimização de logs](#anonimização-de-logs)
+
+## Evidências incluídas
+    - `relatorio.pdf` — relatório completo.
+    - `/evidencias/` — capturas de ecrã das ferramentas (Wireshark, Ncrack, Nmap, theHarvester, sed).
+    - `/scripts/` — scripts e ficheiros de comandos utilizados (`sed_anonimizacao.sh`, `tcpdump_comando.txt`, `comandos_utilizados.txt`).
+    - `/logs/` — ficheiro de logs utilizado e versão anonimizada (`log_anonimizado.txt`).
+
+
+[📄 Relatório completo (PDF)](relatorio.pdf)
 
 ---
 
