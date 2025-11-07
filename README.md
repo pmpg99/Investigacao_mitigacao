@@ -19,7 +19,7 @@
 
 ## Evidências incluídas
 
-- `relatorio.pdf` — relatório completo.(/
+- `relatorio.pdf` — relatório completo.(/M4_PEDROGONCALVES_PRATICA.pdf)
 - `/evidencias/` — capturas de ecrã das ferramentas (Wireshark, Ncrack, Nmap, theHarvester, sed).
 - `/scripts/` — scripts e ficheiros de comandos utilizados (`sed_anonimizacao.sh`, `tcpdump_comando.txt`, `comandos_utilizados.txt`).
 - `/logs/` — ficheiro de logs utilizado e versão anonimizada (`log_anonimizado.txt`).
