@@ -21,8 +21,8 @@
 
 - ![Relatorio](/M4_PEDROGONCALVES_PRATICA.pdf) — relatório completo.
 - ![Evidencias](/evidencias) — capturas de ecrã das ferramentas (Wireshark, Ncrack, Nmap, theHarvester, sed).
-- ![Scripts](/scripts) — scripts e ficheiros de comandos utilizados (`sed_anonimizacao.sh`, `tcpdump_comando.txt`, `comandos_utilizados.txt`).
-- ![Logs](/logs) — ficheiro de logs utilizado e versão anonimizada (`log_anonimizado.txt`).
+- ![Scripts](/scripts) — scripts e ficheiros de comandos utilizados.
+- ![Logs](/log) — ficheiro de logs utilizado e versão anonimizada.
 
 
 ---
