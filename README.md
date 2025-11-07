@@ -38,3 +38,5 @@ Simulação de investigação a um incidente de lentidão e tráfego SSH suspeit
 - Documentar o processo de investigação de forma reprodutível.
 
 ---
+
+## Estrutura do repositório
