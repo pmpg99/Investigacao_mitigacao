@@ -10,12 +10,6 @@
 ## Índice
 - [Resumo](#resumo)  
 - [Objetivos](#objetivos)  
-- [Passo a passo técnico (com comandos)](#passo-a-passo-técnico-com-comandos)  
-  - [OSINT](#osint)  
-  - [Captura e análise de tráfego (forense)](#captura-e-análise-de-tráfego-forense)  
-  - [Cracking de credenciais](#cracking-de-credenciais)  
-  - [Auditoria e correlação de vulnerabilidades](#auditoria-e-correlação-de-vulnerabilidades)  
-  - [Anonimização de logs](#anonimização-de-logs)
 
 ## Evidências incluídas
 
@@ -40,5 +34,3 @@ Simulação de investigação a um incidente de lentidão e tráfego SSH suspeit
 - Documentar o processo de investigação de forma reprodutível.
 
 ---
-
-## Estrutura do repositório
